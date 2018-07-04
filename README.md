@@ -6,6 +6,7 @@ Incorporating fixes and changes:
 
 - Edited code reformatted with prettier. Might be a problem in the future, but I can't be bothered formatting on the basis of the non-specs of the original project.
 - Using `--inspect` and `--inspect-brk` to support Node versions. [Pull request](https://github.com/slap-editor/editor-widget/pull/243)
+- Added one column wide gap between gutter and text area by default. Use option `gutterGap` to change the width or set to 0 (zero).
 
 ## Example
 
