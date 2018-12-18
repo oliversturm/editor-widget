@@ -14,7 +14,8 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/index.js"
+      "program": "${workspaceFolder}/bin/editor-widget.js",
+      "console": "integratedTerminal"
     }
   ]
 }
