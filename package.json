@@ -4,7 +4,7 @@
   "description": "Editor widget used by slap-editor/slap",
   "main": "index.js",
   "dependencies": {
-    "base-widget": "1.1.0",
+    "base-widget": "https://github.com/oliversturm/base-widget/tarball/master",
     "blessed": "0.1.81",
     "bluebird": "^3.5.3",
     "cheerio": "1.0.0-rc.2",
